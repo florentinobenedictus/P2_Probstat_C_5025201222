@@ -49,7 +49,9 @@ soal_1bc(X,Y)
 
 ## Soal No. 2
 ### 2A
-Setuju
+| Sebelum dibuktikan | Setuju karena terlihat benar secara kasat mata tetapi masih perlu dibuktikan secara statistik    |
+| ------------------ | ------------------------------------------------------------------------------------------------ |
+| Setelah dibuktikan | Setelah dibuktikan secara statistik melalui No. 2B & 2C terbukti hipotesis benar sehingga setuju |
 ### 2B
 Dari output disimpulkan bahwa tes yang digunakan adalah t-test, karena standar deviasi populasi tidak diketahui. Nilai t didapatkan 8.9744 dengan confidence interval default 95%, ditemukan p-value 9.437e-15.
 ```r
