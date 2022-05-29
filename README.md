@@ -64,9 +64,9 @@ Karena nilai p-value jauh lebih kecil dari alfa maka dapat disimpulkan hipotesis
 
 ## Soal No. 3
 ### 3A
-Pada soal terdapat kalimat `apakah ada perbedaan pada rata-ratanya` sehingga dapat disimpulkan bahwa kalimat ini merupakan hipotesa 1
-$H0$ = tidak terdapat perbedaan signifikan antara rata-rata kedua kota<br>
-$H1$ = terdapat perbedaan signifikan antara rata-rata kedua kota
+Pada soal terdapat kalimat `apakah ada perbedaan pada rata-ratanya` sehingga dapat disimpulkan bahwa kalimat ini merupakan hipotesa 1<br>
+- $H0$ = tidak terdapat perbedaan signifikan antara rata-rata kedua kota<br>
+- $H1$ = terdapat perbedaan signifikan antara rata-rata kedua kota
 ### 3B
 Karena H1: $Bandung ≠ Bali$, maka digunakan two-sided
 ```r
