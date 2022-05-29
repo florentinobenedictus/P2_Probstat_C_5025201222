@@ -1,8 +1,9 @@
 # P2_Probstat_C_5025201222
-Florentino Benedictus
-5025201222
-Probstat C
-Praktikum 2
+Florentino Benedictus<br>
+5025201222<br>
+Probstat C<br>
+Praktikum 2<br>
+
 ## Inisialisasi
 Dalam pengerjaan soal akan memerlukan beberapa library, sehingga pertama kali perlu menginstall dan load library
 ```r
@@ -205,8 +206,8 @@ soal_5b<-function(){
   summary(anova)
 }
 soal_5b()
-![](Screenshot/Gambar5B.png)
 ```
+![](Screenshot/Gambar5B.png)
 ### 5C
 ```r
 soal_5c<-function(){
